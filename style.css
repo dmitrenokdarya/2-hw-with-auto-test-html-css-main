@@ -64,7 +64,7 @@ select {
     font-weight: 400;
     font-size: 16px;
     padding: 0 12px;
-    background: url(/assets/images/ep_arrow-down.svg) right 12px 50%;
+    background: url(./assets/images/ep_arrow-down.svg) no-repeat right 12px;
     appearance: none;
 }
 
